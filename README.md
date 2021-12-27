@@ -1,3 +1,3 @@
 # projects-vuejs
 
-## Projet vue-create on others branches
+## Projects vue-create on others branches
